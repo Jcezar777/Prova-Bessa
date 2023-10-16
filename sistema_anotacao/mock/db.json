@@ -1,0 +1,75 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Vídeo Aula",
+      "preco": "R$ 5,00"
+    },
+    {
+      "id": 2,
+      "nome": "AudioBook",
+      "preco": "R$ 7,00"
+    },
+    {
+      "id": 3,
+      "nome": "Aula de redação",
+      "preco": "R$ 70,00"
+    },
+    {
+      "id": 4,
+      "nome": "Apostilas",
+      "preco": "R$ 3,00"
+    },
+    {
+      "id": 5,
+      "nome": "Ajuda psicológica",
+      "preco": "R$ 9,99"
+    },
+    {
+      "id": 6,
+      "nome": "Monitoria",
+      "preco": "R$ 50,00"
+    }
+  ],
+
+  "CEO's": [
+    {
+      "id": "007",
+      "nome": "Cezar, servo de Deus",
+      "Profissao": "1º Tenente do Exército brasileiro"
+    },
+    {
+      "id": "013",
+      "nome": "Elen, linda demais",
+      "Profissao": "Policial Rodoviário Federal"
+    },
+    {
+      "id": "019 ",
+      "nome": "Suzana Eduarda, Empreendedora",
+      "Profissao": "Advogada"
+    },
+    {
+      "id": "003",
+      "nome": "Yasmin, jogadora de voleibol",
+      "Profissao": "Juíza"
+    }
+  ],
+
+  "PrimeirosColocados": [
+    {
+      "id": "000001",
+      "nome": "Alexandre",
+      "Raking": "7º - Medicina FUVEST - 2021"
+    },
+    {
+      "id": "000002",
+      "nome": "Tauan ",
+      "Raking": "2º - Engenharia de Pesca UNICAMP - 2023"
+    },
+    {
+      "id": "000003",
+      "nome": "Vanessa",
+      "Raking": "5º - Direito PUC - 2023"
+    }
+  ]
+}
